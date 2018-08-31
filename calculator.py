@@ -2,6 +2,7 @@ import numpy as np
 
 
 
+
 def provide_credit_amount(credit_amount):
     return credit_amount
 
