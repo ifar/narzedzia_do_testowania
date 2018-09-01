@@ -1,5 +1,4 @@
-import numpy as np
-
+# import numpy as np
 
 
 def provide_credit_amount(credit_amount):
